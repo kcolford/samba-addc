@@ -1,0 +1,6 @@
+# Samba Active Directory Domain Controller
+
+Refer to <https://wiki.samba.org/index.php/Samba_AD_DC_Port_Usage> for
+the ports used.
+
+Based on Arch Linux.
